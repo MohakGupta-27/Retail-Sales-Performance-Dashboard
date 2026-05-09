@@ -2,38 +2,39 @@
 
 An interactive Power BI dashboard project designed to analyze retail sales performance, customer purchasing behavior, and regional business trends using SQL, Excel, and Power BI.
 
-The dashboard provides actionable business insights through data visualization, KPI tracking, and trend analysis to support data-driven decision-making.
+The project focuses on transforming raw retail sales data into actionable business insights through data visualization, KPI tracking, and trend analysis.
+
 ---
 
 # 🚀 Project Highlights
 
-- Analyzed retail sales data across multiple regions and product categories
-- Built an interactive Power BI dashboard with dynamic filters and KPIs
-- Used SQL for data cleaning, transformation, and querying
-- Identified high-performing products and sales trends
-- Created visual reports for business performance monitoring
-- Demonstrated data analytics and business intelligence skills
+- Built an interactive Power BI dashboard for retail sales analysis
+- Performed data cleaning and transformation using SQL
+- Analyzed sales trends across different regions and product categories
+- Tracked business KPIs using dynamic visualizations
+- Generated insights to support data-driven decision-making
+- Demonstrated practical business intelligence and analytics skills
 
 ---
 
 # 🎯 Business Problem
 
-Retail businesses generate large volumes of sales data daily, making it difficult to manually monitor performance, identify trends, and make informed decisions.
+Retail businesses generate large volumes of sales data daily, making it difficult to manually monitor performance and identify meaningful trends.
 
-This project helps businesses:
-- Track sales performance efficiently
-- Identify top-selling products and regions
-- Monitor revenue and profitability trends
-- Understand customer purchasing behavior
-- Support strategic business decisions using data
+This project helps in:
+- Monitoring sales performance
+- Identifying top-performing products and categories
+- Tracking regional business growth
+- Understanding customer purchasing behavior
+- Supporting business decisions using data analytics
 
 ---
 
 # 🛠️ Tech Stack
 
-- **Power BI** – Dashboard creation and data visualization
-- **SQL** – Data cleaning and transformation
-- **Excel** – Dataset handling and preprocessing
+- **Power BI** – Dashboard creation and visualization
+- **SQL** – Data cleaning and querying
+- **Excel** – Data preprocessing and handling
 
 ---
 
@@ -43,8 +44,8 @@ This project helps businesses:
 - Total Orders
 - Profit Margin
 - Regional Sales Performance
-- Category-wise Sales
-- Monthly Revenue Trends
+- Product Category Analysis
+- Monthly Sales Trends
 - Top-Selling Products
 - Customer Purchase Insights
 
@@ -52,11 +53,11 @@ This project helps businesses:
 
 # 📂 Dataset Information
 
-The dataset contains retail sales transaction records including:
-- Order Details
-- Product Categories
-- Customer Information
-- Regional Sales Data
+The dataset includes retail sales transaction records containing:
+- Product Details
+- Sales Information
+- Customer Data
+- Regional Data
 - Revenue and Profit Metrics
 
 ---
@@ -66,8 +67,8 @@ The dataset contains retail sales transaction records including:
 1. Data Collection
 2. Data Cleaning using SQL
 3. Data Transformation
-4. Data Modeling in Power BI
-5. Dashboard Design
+4. Data Modeling
+5. Dashboard Development
 6. KPI Analysis
 7. Business Insights Generation
 
@@ -75,15 +76,15 @@ The dataset contains retail sales transaction records including:
 
 # 🛠 Data Preparation
 
-The following preprocessing steps were performed before dashboard creation:
+The following preprocessing steps were performed:
 
 - Removed duplicate records
 - Handled missing values
-- Standardized date formats
+- Standardized data formats
 - Cleaned inconsistent entries
 - Performed SQL transformations
 - Created calculated columns and measures
-- Built relationships between tables in Power BI
+- Built relationships between tables
 
 ---
 
@@ -107,23 +108,22 @@ GROUP BY Region;
 # 📊 Dashboard Features
 
 - Interactive Filters and Slicers
-- Region-wise Sales Analysis
-- Product Category Performance
+- Sales Trend Analysis
+- Regional Performance Analysis
+- Product Category Insights
 - Revenue and Profit Tracking
-- Monthly and Yearly Trend Analysis
-- KPI Cards and Visual Metrics
-- Dynamic Charts and Graphs
+- KPI Cards and Metrics
+- Dynamic Charts and Visualizations
 
 ---
 
 # 📈 Key Insights
 
-- Electronics category generated the highest revenue
-- Western region showed the strongest sales performance
-- Seasonal trends significantly impacted monthly sales
-- Certain products consistently outperformed others
-- Repeat customers contributed higher revenue
-- Low-performing categories affected overall profitability
+- Certain product categories contributed significantly to total revenue
+- Regional sales performance varied across locations
+- Monthly sales trends revealed seasonal business patterns
+- High-performing products consistently generated strong revenue
+- Customer purchasing behavior impacted overall sales performance
 
 ---
 
@@ -134,9 +134,7 @@ Retail-Sales-Performance-Dashboard/
 │── README.md
 │── Retail_Sales_Dashboard.pbix
 │── Retail_Sales_Dataset.xlsx
-│── data_cleaning_queries.sql
-│── screenshots/
-│── insights/
+│── SQL_Queries.sql
 ```
 
 ---
@@ -158,9 +156,9 @@ Retail-Sales-Performance-Dashboard/
 # ▶️ How to Run the Project
 
 1. Clone this repository
-2. Open the `.pbix` file using Power BI Desktop
+2. Open the `.pbix` file in Power BI Desktop
 3. Refresh the dataset if required
-4. Explore the dashboard using filters and slicers
+4. Explore the dashboard using filters and visualizations
 
 ---
 
@@ -168,7 +166,7 @@ Retail-Sales-Performance-Dashboard/
 
 This project demonstrates how retail sales data can be transformed into meaningful business insights using Power BI and SQL.
 
-The dashboard helps businesses monitor performance, identify trends, and make informed strategic decisions through interactive visual analytics.
+The dashboard enables efficient sales monitoring, trend analysis, and performance tracking through interactive visual analytics.
 
 ---
 
@@ -177,6 +175,5 @@ The dashboard helps businesses monitor performance, identify trends, and make in
 ## Mohak Gupta
 
 - GitHub: https://github.com/MohakGupta-27
-- LinkedIn: (https://www.linkedin.com/in/mohak-gupta-2071092a5/)
 
 ---
