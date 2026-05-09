@@ -3,7 +3,6 @@
 An interactive Power BI dashboard project designed to analyze retail sales performance, customer purchasing behavior, and regional business trends using SQL, Excel, and Power BI.
 
 The dashboard provides actionable business insights through data visualization, KPI tracking, and trend analysis to support data-driven decision-making.
-
 ---
 
 # 🚀 Project Highlights
