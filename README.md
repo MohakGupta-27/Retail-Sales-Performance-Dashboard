@@ -132,7 +132,7 @@ GROUP BY Region;
 
 ## Sales Performance Overview
 
-<img width="100%" alt="Dashboard Preview" src="YOUR_IMAGE_LINK_HERE">
+<img width="100%" alt="Dashboard Preview" src="(https://raw.githubusercontent.com/MohakGupta-27/Retail-Sales-Performance-Dashboard/refs/heads/main/Dashboard_Screenshots.zip)">
 
 ---
 
@@ -186,6 +186,6 @@ The dashboard helps businesses monitor performance, identify trends, and make in
 ## Mohak Gupta
 
 - GitHub: https://github.com/MohakGupta-27
-- LinkedIn: ADD_YOUR_LINKEDIN_LINK
+- LinkedIn: (https://www.linkedin.com/in/mohak-gupta-2071092a5/)
 
 ---
