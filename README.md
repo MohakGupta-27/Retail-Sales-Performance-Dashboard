@@ -128,14 +128,6 @@ GROUP BY Region;
 
 ---
 
-# 📷 Dashboard Preview
-
-## Sales Performance Overview
-
-<img width="100%" alt="Dashboard Preview" src="(https://raw.githubusercontent.com/MohakGupta-27/Retail-Sales-Performance-Dashboard/refs/heads/main/Dashboard_Screenshots.zip)">
-
----
-
 # 📂 Repository Structure
 
 ```bash
